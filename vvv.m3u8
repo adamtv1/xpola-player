@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
